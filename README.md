@@ -22,5 +22,5 @@ Este repositório tem como objetivo registrar minha evolução acadêmica e prá
 
 ## Autor
 
-Leonardo Carolino
+Leonardo Carolino;
 Graduando em Análise e Desenvolvimento de Sistemas – Estácio de Sá
