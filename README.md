@@ -1,24 +1,26 @@
-Este repositório reúne os projetos e exercícios desenvolvidos em linguagem C durante minha graduação em Análise e Desenvolvimento de Sistemas (ADS) pela Universidade Estácio de Sá.
+# ProgramacaoC
 
-O objetivo deste repositório é documentar minha evolução na programação, armazenando atividades práticas, desafios e projetos acadêmicos realizados ao longo do curso.
+Este repositório reúne os projetos, exercícios e atividades desenvolvidos em linguagem C durante minha graduação em Análise e Desenvolvimento de Sistemas (ADS) pela Estácio de Sá.
 
-Tecnologias Utilizadas
-Linguagem C
-GCC (GNU Compiler Collection)
-Conceitos de Algoritmos e Estruturas de Dados
-Conteúdo
+Os projetos foram criados ao longo da disciplina de Introdução à Programação de Computadores, abordando conceitos fundamentais de programação, lógica computacional e desenvolvimento de algoritmos.
 
-Aqui você encontrará exemplos de:
+## Conteúdos Estudados
 
-Estruturas condicionais
-Estruturas de repetição
-Vetores e matrizes
-Funções
-Ponteiros
-Estruturas de dados básicas
-Projetos e exercícios acadêmicos
-Autor
+* Pensamento computacional e resolução de problemas
+* Algoritmos e fluxogramas
+* Tipos de dados, variáveis e constantes
+* Comandos de entrada e saída de dados
+* Operadores e expressões
+* Estruturas de decisão (`if`, `else`, `switch`)
+* Estruturas de repetição (`for`, `while`, `do-while`)
+* Vetores e matrizes
+* Desenvolvimento de programas em linguagem C
+
+## Objetivo
+
+Este repositório tem como objetivo registrar minha evolução acadêmica e prática na programação, servindo como portfólio dos trabalhos realizados durante o curso.
+
+## Autor
 
 Leonardo Carolino
-
-Estudante de Análise e Desenvolvimento de Sistemas pela Estácio de Sá.
+Graduando em Análise e Desenvolvimento de Sistemas – Estácio de Sá
