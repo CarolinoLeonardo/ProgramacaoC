@@ -45,9 +45,6 @@ int main(){
 
     getchar(); // limpa o Enter deixado pelo scanf
 
-    densidade1 = populacao1 / area1;
-    pibpc1 = pib1 / populacao1;
-
     // Cadastro Carta 2
 
     printf("------------------------------\n");
@@ -79,6 +76,11 @@ int main(){
     printf("Digite o número de pontos turísticos da cidade: ");
     scanf("%d", &pturistico2);
 
+    // Cálculos Carta 1
+    densidade1 = populacao1 / area1;
+    pibpc1 = pib1 / populacao1;
+
+    // Cálculos Carta 2
     densidade2 = populacao2 / area2;
     pibpc2 = pib2 / populacao2;
 
