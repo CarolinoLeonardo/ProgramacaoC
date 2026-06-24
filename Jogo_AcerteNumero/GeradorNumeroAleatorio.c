@@ -17,9 +17,6 @@ int main (){
 
     switch (opcao){
     case 1:
-        printf("bem vindo");
-
-
         srand(time(0));
         numeroSecreto = rand() % 10 + 1;
         printf("Digite um numero (0-10): ");
